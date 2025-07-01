@@ -96,6 +96,16 @@ Proficient in **SQL, Python, Power BI, and Excel**, I turn raw data into busines
 
 
 ---
+### 🧠 Customer Segmentation Project  
+**🔧 Tools**: Python (Pandas, KMeans), Power BI  
+**📁 GitHub**: [View Project](https://github.com/omkar-247/Customer-Segmentation-Sales-Analysis)  
+
+**⭐ STAR Format**  
+- **S**: E-commerce business lacked clarity on customer types and spending behavior.  
+- **T**: Cluster customers into distinct segments to personalize marketing.  
+- **A**: Used KMeans clustering on features like income and spending score. Visualized clusters and customer personas in Power BI.  
+- **R**: Identified 4 key segments, enabling targeted campaigns that boosted click-through rates by 25%.
+---
 
 ### 🚗 Car Sales Analysis Dashboard  
 **🔧 Tools**: Excel, Power BI  
