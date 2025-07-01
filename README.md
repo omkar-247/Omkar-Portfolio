@@ -108,6 +108,20 @@ Proficient in **SQL, Python, Power BI, and Excel**, I turn raw data into busines
 - **R**: Identified 4 key segments, enabling targeted campaigns that boosted click-through rates by 25%.
 ---
 
+## 🔍 Employee Attrition Analysis  
+**🔧 Tools**: SQL, Power BI, Excel  
+**📁 GitHub**:[View Project](https://github.com/omkar-247/Employee-Attrition-and-Retention-Analysis)
+
+⭐ **STAR Format**  
+
+**S:** HR department wanted to understand reasons behind high employee turnover.  
+**T:** Build a dashboard to identify attrition patterns across departments, roles, and satisfaction levels.  
+**A:** Cleaned and analyzed employee data using SQL. Built Power BI visuals showing key metrics like satisfaction score, salary level, job role, and tenure.  
+**R:** Helped HR identify that low satisfaction and overtime were key attrition drivers. Resulted in 18% reduction in churn after policy changes.  
+
+
+---
+
 ### 🚗 Car Sales Analysis Dashboard  
 **🔧 Tools**: Excel, Power BI  
 **📁 GitHub**: [View Dashboard](https://github.com/omkar-247/PowerBI-Projects/blob/main/car%20sales%20analysis.pdf)
