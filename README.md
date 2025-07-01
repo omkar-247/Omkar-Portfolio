@@ -1,4 +1,4 @@
-<h1 align="center">📊 Omkar Kummarikuntla – Data Analyst Portfolio</h1>
+<h1 align="center">📊 Omkar Kummarikuntla – Data Analyst </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omkar-k-453037324/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
@@ -35,6 +35,21 @@ Proficient in **SQL, Python, Power BI, and Excel**, I turn raw data into busines
 ## 📂 Featured Projects
 
 ---
+### 🏥 Healthcare Data Management Analysis  
+**🔧 Tools**: SQL Server, MySQL, Power BI  
+**📁 GitHub**: [View Repo](https://github.com/omkar-247/Healthcare-Data-Management-Analysis)
+
+**⭐ STAR Format**  
+- **S**: Hospital struggled with analyzing patient inflow and treatment patterns.  
+- **T**: Build HIPAA-compliant dashboards for operational insights.  
+- **A**: Designed SQL schema for fast querying. Built anonymized Power BI visuals showing patient wait times, readmissions, and department load.  
+- **R**: Analysis reduced query time by 30% and helped balance hospital staff scheduling.
+  
+## 📊 Dashboard Preview
+
+![Healthcare Dashboard](https://github.com/omkar-247/Healthcare-Data-Management-Analysis/blob/main/Screenshot%202025-03-22%20212603.png)
+
+---
 
 ### 🔐 Payment Fraud Detection  
 **🔧 Tools**: Python, Isolation Forest, Power BI  
@@ -46,7 +61,6 @@ Proficient in **SQL, Python, Power BI, and Excel**, I turn raw data into busines
 - **A**: Applied Isolation Forest model to detect 85%+ anomalies. Created Power BI dashboard to highlight fraud trends by hour/category.  
 - **R**: Reduced manual review time by 60% and increased early fraud detection confidence.
 
-📸 _[Add fraud_dashboard.png here if available]_
 
 ---
 
@@ -60,17 +74,9 @@ Proficient in **SQL, Python, Power BI, and Excel**, I turn raw data into busines
 - **A**: Created classification model with 78% precision. Visualized tenure, contract types, and payment behavior in Power BI.  
 - **R**: Business adopted online billing + loyalty programs; churn dropped 12% next cycle.
 
----
+## 📊 Dashboard Preview
 
-### 🏥 Healthcare Data Management Analysis  
-**🔧 Tools**: SQL Server, MySQL, Power BI  
-**📁 GitHub**: [View Repo](https://github.com/omkar-247/Healthcare-Data-Management-Analysis)
-
-**⭐ STAR Format**  
-- **S**: Hospital struggled with analyzing patient inflow and treatment patterns.  
-- **T**: Build HIPAA-compliant dashboards for operational insights.  
-- **A**: Designed SQL schema for fast querying. Built anonymized Power BI visuals showing patient wait times, readmissions, and department load.  
-- **R**: Analysis reduced query time by 30% and helped balance hospital staff scheduling.
+![Churn Dashboard](https://github.com/omkar-247/Churn-Prediction-And-Retention-Analysis/blob/main/Churn%20Analysis.png)
 
 ---
 
@@ -84,11 +90,16 @@ Proficient in **SQL, Python, Power BI, and Excel**, I turn raw data into busines
 - **A**: Found carousel ads outperformed others; ROAS highest on Instagram (2.91). Segment analysis showed top converters: males 18–24, females 25–34.  
 - **R**: Suggested 40% ad budget reallocation. Campaign ROI improved by 23%.
 
+## 📊 Dashboard Preview
+
+![ad campaign Dashboard](https://github.com/omkar-247/Social-Media-AD-campaign-Optimization/blob/main/Power%20BI%20Dashboard.png)
+
+
 ---
 
 ### 🚗 Car Sales Analysis Dashboard  
 **🔧 Tools**: Excel, Power BI  
-**📁 GitHub**: _[Add GitHub link if available]_  
+**📁 GitHub**: [View Dashboard](https://github.com/omkar-247/PowerBI-Projects/blob/main/car%20sales%20analysis.pdf)
 
 **⭐ STAR Format**  
 - **S**: Auto dealer needed visibility into regional sales trends.  
@@ -97,6 +108,11 @@ Proficient in **SQL, Python, Power BI, and Excel**, I turn raw data into busines
 - **R**: Helped sales team prioritize underperforming regions and boosted Q2 sales by 15%.
 
 ---
+
+
+
+
+
 
 ## 📫 Let's Connect
 
