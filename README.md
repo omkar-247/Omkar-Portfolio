@@ -15,6 +15,7 @@ I’m a passionate and results-driven **Data Analyst** with experience in:
 - 📊 Interactive Dashboards
 - 📈 KPI Reporting
 - 🧹 Data Cleaning & ETL
+- 🛠️ A/B Testing
 
 Proficient in **SQL, Python, Power BI, and Excel**, I turn raw data into business growth strategies across fintech, healthcare, HR, and marketing domains.
 
@@ -80,8 +81,8 @@ Proficient in **SQL, Python, Power BI, and Excel**, I turn raw data into busines
 
 ---
 
-### 📣 Social Media Ad Campaign Optimization  
-**🔧 Tools**: SQL, Power BI  
+### 📣 A/B Testing – Social Media Ad Campaign   
+**🔧 Tools**: SQL, Power BI , A/B testing
 **📁 GitHub**: [View Repo](https://github.com/omkar-247/Social-Media-AD-campaign-Optimization)
 
 **⭐ STAR Format**  
